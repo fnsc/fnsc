@@ -16,12 +16,8 @@
     </a>
 </div>
 
-[comment]: <> (<div align="center">)
-
-[comment]: <> (    <a href="https://github.com/fnsc"> )
-
-[comment]: <> (        <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=fnsc&theme=dark" />)
-
-[comment]: <> (    </a>)
-
-[comment]: <> (</div>)
+<div align="center">
+    <a href="https://github.com/fnsc">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=fnsc&theme=dark" />
+    </a>
+</div>
