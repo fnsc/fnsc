@@ -8,6 +8,7 @@
 💼 [Linkedin](https://www.linkedin.com/in/fnsc) <br>
 📷 [Instagram](http://instagram.com/fnsc) <br>
 
+### Badges
 <div align="center">
     <a href="https://github.com/fnsc"> 
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fnsc&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
