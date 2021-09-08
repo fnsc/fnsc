@@ -11,10 +11,6 @@
 <div align="center">
     <a href="https://github.com/fnsc"> 
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fnsc&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-    </a>
-</div>
-<div align="center">
-    <a href="https://github.com/fnsc"> 
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fnsc&layout=compact&theme=dark" />
     </a>
 </div>
