@@ -1,27 +1,26 @@
 ### Hi there 👋
-- 🔭 I'm currently working at [Leroy Merlin Brasil](http://leroymerlin.com.br)
-- 🌱 I'm currently learning about GoLang and software architecture.
-- 📫 How to reach me: @fnsc
 
-### fnsc social
-🐦 [Twitter](https://twitter.com/fnscme) <br>
-💼 [Linkedin](https://www.linkedin.com/in/fnsc) <br>
-📷 [Instagram](http://instagram.com/fnsc) <br>
+I'm Gabriel, a Software Engineer.
 
-### Stats
-<div align="center">
-    <a href="https://github.com/fnsc"> 
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fnsc&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fnsc&layout=compact&theme=dark" />
-    </a>
-</div>
+### About
 
-[comment]: <> (<div align="center">)
+- 🔭 Working at [Loopio](https://www.loopio.com)
+- 🌍 Based in New Westminster, BC
+- 🌐 [fnsc.dev](https://fnsc.dev)
 
-[comment]: <> (    <a href="https://github.com/fnsc">)
+### Contact
 
-[comment]: <> (        <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=fnsc&theme=dark" />)
+💼 [LinkedIn](https://www.linkedin.com/in/fnsc)
 
-[comment]: <> (    </a>)
+### Tech Stack
 
-[comment]: <> (</div>)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
